@@ -4,6 +4,7 @@ html {
 
 body {
   font-family: verdana;
+  max-width:1000px;
   margin-right: 100px; /* Отступ справа */
   margin-left: 200px; /* Отступ слева */
 }
